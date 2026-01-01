@@ -1,10 +1,23 @@
-# Metasploit-for-Beginners-Ethical-Penetration-Testing
-This project focuses on basic ethical penetration testing using Metasploit. The goal was to understand how common vulnerabilities are identified and exploited in a controlled environment.
+# Metasploit for Beginners – Ethical Penetration Testing
 
-What I Did
-Used Metasploit framework for basic exploitation
-Identified common security weaknesses
-Practiced ethical hacking concepts
+## Description
+This project focuses on **basic ethical penetration testing** using the **Metasploit Framework**.  
+The goal is to understand how common vulnerabilities are identified and tested in a **controlled environment**.
 
-Skills & Tools
-Metasploit, Ethical Hacking, Vulnerability Analysis, Kali Linux
+## What I Did
+- Used Metasploit for basic exploitation  
+- Identified common security weaknesses  
+- Practiced ethical hacking concepts  
+
+## Skills & Tools
+- Metasploit  
+- Kali Linux  
+- Ethical Hacking  
+- Vulnerability Analysis  
+
+## Note
+This project is for **educational purposes only**.  
+All testing was done in a **legal lab environment**.
+
+## Author
+**Chalitha Aluwihare**
